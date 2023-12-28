@@ -2,6 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.App_Lista" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/PrimariaDark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:colorBackground">@color/BackgroundDark</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
 </resources>

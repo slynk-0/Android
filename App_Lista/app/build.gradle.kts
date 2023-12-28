@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "devandroid.sodre.app_lista"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "devandroid.sodre.app_lista"
