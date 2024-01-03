@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">App_Lista</string>
+    <string name="clean">Clean</string>
+    <string name="v_i_p_list">V.I.P List</string>
+    <string name="informations">Insert the informations below.</string>
+    <string name="first_name">First name</string>
+    <string name="surname">Surname</string>
+    <string name="phone">Telephone for contact</string>
+    <string name="desired_course">Desired Course</string>
+    <string name="save">Save</string>
+    <string name="finish">Finish</string>
 </resources>

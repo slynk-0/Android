@@ -1,4 +1,4 @@
 package devandroid.sodre.app_lista.controller;
 
-public class controller {
+public class Controller {
 }
