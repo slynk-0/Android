@@ -44,4 +44,14 @@ public class Pessoa {
     public void setPhone(String phone) {
         this.phone = phone;
     }
+
+    @Override
+    public String toString() {
+        return "Pessoa{" +
+                "firstName='" + firstName + '\'' +
+                ", surname='" + surname + '\'' +
+                ", desiredCourse='" + desiredCourse + '\'' +
+                ", phone='" + phone + '\'' +
+                '}';
+    }
 }
